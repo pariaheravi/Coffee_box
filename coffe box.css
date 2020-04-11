@@ -1,0 +1,24 @@
+body
+{
+    background-image: url("./IMG_0568.gif");
+    background-size: cover;
+    background:repeating-linear-gradient()
+}
+
+.P{
+    background-color:#b25b00;
+    color: white;
+}
+.mystyle{
+    padding-top: 15%;
+    text-align: center;
+}
+.mybtn{
+    background-color: #b25b00;
+    color: white;
+}
+p
+{
+    color: #ffffff;
+    font-family: Pacifico;
+}
